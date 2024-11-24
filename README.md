@@ -1,7 +1,7 @@
 ## 🔗 Lien vers la liste de lecture
 
 Playlist de 30 vidéos au format Short de moins d'une minute sur YouTube : 
-- [30 jours de C](https://www.youtube.com/playlist?list=PLeXyx0kOyiXuFe1QmdGSpgsbMjD3EQDum)
+- Voir les [30 jours de C](https://www.youtube.com/playlist?list=PLeXyx0kOyiXuFe1QmdGSpgsbMjD3EQDum) sur YouTube 🔴
 
 ## 📖 Sommaire
 
