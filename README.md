@@ -1,8 +1,11 @@
 ## 🔗 Lien vers la liste de lecture
 
-[30 jours de C](https://www.youtube.com/playlist?list=PLeXyx0kOyiXuFe1QmdGSpgsbMjD3EQDum)
+Playlist de 30 vidéos au format Short de moins d'une minute sur YouTube : 
+- [30 jours de C](https://www.youtube.com/playlist?list=PLeXyx0kOyiXuFe1QmdGSpgsbMjD3EQDum)
 
 ## 📖 Sommaire
+
+Le code et le lien vers le short pour chaque journée : 
 
 - Jour 01 : 👨‍💻 [Code](https://github.com/commentcoder/30-jours-de-c/blob/main/jour_01.c) 🎥 [YouTube](https://www.youtube.com/shorts/SLmtzcE_rZU)
 - Jour 02 : 👨‍💻 [Code](https://github.com/commentcoder/30-jours-de-c/blob/main/jour_02.c) 🎥 [YouTube](https://www.youtube.com/shorts/PbqySA_69Tk)
